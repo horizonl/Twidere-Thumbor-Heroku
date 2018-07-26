@@ -16,13 +16,3 @@ You don't need any other tool except a browser to deploy this.
 6. Find **Connect to Github** in **Deploy** segment, gives Heroku your Github access, then type **the repo name that you've forked**, click **Connect**.
 7. Find **Manual deploy**, click **Deploy Branch**.
 8. Done!
-
-##Support my work
-
-**Donation methods**
-
-* Me: mariotaku.lee[AT]gmail.com
-
-PayPal & Alipay accepted.
-
-Bitcoin: 1FHAVAzge7cj1LfCTMfnLL49DgA3mVUCuW
